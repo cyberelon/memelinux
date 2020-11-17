@@ -5,7 +5,7 @@ How to flash Memeui Fastboot ROM from Linux
 
 - Download the ROM suitable for your device from the `MIUI
 
-  site <http://en.miui.com/a-234.html>`_ and extract the downloaded archive
+  site <https://xiaomifirmwareupdater.com/miui/>`_ and extract the downloaded archive
 
 - Download and extract the `Android SDK Platform Tools
 
