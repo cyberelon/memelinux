@@ -1,4 +1,3 @@
-
 #How to flash Memeui Fastboot ROM from Linux
 
 =========================================
