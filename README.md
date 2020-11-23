@@ -1,7 +1,6 @@
 
 # How to flash Memeui Fastboot ROM from Linux
 
-=========================================
 
 - Download the ROM suitable for your device from the `Xiaomeme
 
